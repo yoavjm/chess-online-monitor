@@ -1,4 +1,7 @@
 # One chess.com username per line. Lines starting with # are ignored.
 # Replace these with the players you want to watch.
-hikaru
-magnuscarlsen
+navi_nazarpro
+rakitic2010
+skilledassassin4
+tactic
+boburjon314159
