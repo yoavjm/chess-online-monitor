@@ -1,9 +1,9 @@
 # One chess.com username per line. Lines starting with # are ignored.
-# Replace these with the players you want to watch.
-navi_nazarpro
 rakitic2010
-skilledassassin4
 tactic
-boburjon314159
-Fever_Code
-
+bubeliang
+speed
+worriedegg
+10seconds3kchallengepls
+ant_chess_2019
+fl0w-st4te
